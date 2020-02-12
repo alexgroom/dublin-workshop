@@ -26,8 +26,8 @@ An https://docs.openshift.com/container-platform/4.2/operators/olm-what-operator
 is provided for deploying the workshop infrastructure (lab instructions, Nexus, Gogs, Eclipse Che, etc) 
 on OpenShift.
 
-Please follow the instructions from https://github.com/mcouliba/openshift-workshop-operator[OpenShift Workshop Operator^]
-and deploy the following **Workshop** custom resource https://github.com/mcouliba/openshift-workshop-operator/blob/master/deploy/crds/cloud_native_workshop_cr.yaml[cloud_native_workshop_cr.yaml]
+Please follow the instructions from https://github.com/alexgroom/dublin-operator[OpenShift Workshop Operator^]
+and deploy the following **Workshop** custom resource https://github.com/alexgroom/dublin-operator/blob/master/deploy/crds/cloud_native_workshop_cr.yaml[cloud_native_workshop_cr.yaml]
 
 == Run locally the lab instructions
 
